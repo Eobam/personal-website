@@ -1,0 +1,14 @@
+<a 
+        href="https://eobam.itch.io/"
+            <button class="button"; style="background-color: red; border-radius:5px;;">tch.io Page!</button>
+            </a>
+            <p>(itch.io page is mostly, if not all just stuff I made in scratch during pandemic.)</p>
+            <a
+            href="https://summer.hackclub.com/users/16045"
+            <button class="button"; style="background-color: darkgoldenrod; border-radius:5px;">Summer Of Making Projects</button>
+        </a>
+        <p>.</p>
+          <a 
+            href="https://github.com/Eobam"
+            <button class="button"; style="background-color: greenyellow; border-radius:5px;">Github</button>
+            </a>
