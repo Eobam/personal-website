@@ -11,6 +11,11 @@ body {
     background: aquamarine;
     
 }
+
+img {
+    padding: 3px;
+}
+
 ul li {
     list-style: none;
     display: inline-block;
